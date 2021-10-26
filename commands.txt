@@ -1,4 +1,3 @@
- the interface and returns you to Node
 add_child <existing mother's name> <child's name> <gender>
     example:
         add_child Flora Minerva Female

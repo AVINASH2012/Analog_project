@@ -9,16 +9,16 @@ const rl = readline.createInterface({
 const ud = undefined;
 
 const familyInitial = [{
-        name: "Arthur",
-        spouse: "Margret",
-        gender: 0,
+        name: "Anga",
+        spouse: "Shan",
+        gender: 1,
         father: ud,
         mother: ud
     },
     {
-        name: "Margret",
-        spouse: "Arthur",
-        gender: 1,
+        name: "Shan",
+        spouse: "Anga",
+        gender: 0,
         father: ud,
         mother: ud
     }
