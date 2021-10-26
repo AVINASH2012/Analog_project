@@ -1,0 +1,14 @@
+ the interface and returns you to Node
+add_child <existing mother's name> <child's name> <gender>
+    example:
+        add_child Flora Minerva Female
+add_spouse <existing family member's name> <child's name> <gender> 
+    example:
+        add_spouse Bil Floraa female
+get_relationship <family member's name> <relationship> 
+    example:
+        get_relationship Lily Sister-In-Law
+reset - Resets
+run_file <filename>  See files testfile-1.txt example.
+
+exit - Exits 
